@@ -56,7 +56,7 @@ Simply enter any topic and watch as the AI creates a comprehensive blog post wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-blog-writer.git
+   git clone https://github.com/Salman313ali/AI-Blog-Writer.git
    cd ai-blog-writer
    ```
 
@@ -210,8 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help, please open an issue on GitHub or contact us at [your-email@example.com].
+If you have any questions or need help, please open an issue on GitHub or contact me at [salman313ali@gmail.com].
 
 ---
 
-**Made with ❤️ by AI Blog Writer Team**
